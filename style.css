@@ -1,0 +1,9 @@
+.basic {
+    width: 500px;
+    height: 500px;
+    background: aqua;
+}
+
+.basic h1 {
+    color: blue;
+}
